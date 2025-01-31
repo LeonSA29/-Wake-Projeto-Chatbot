@@ -3,3 +3,7 @@ langchain-core
 langchain-ollama
 langchain-openai
 langchain-huggingface
+langchain
+huggingface_hub
+openai
+tornado
